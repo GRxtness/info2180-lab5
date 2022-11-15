@@ -28,7 +28,6 @@ button {
     text-decoration: none;
     height: 45px;
     
-    
 }
 div.label{
     height: auto;
@@ -49,8 +48,8 @@ table{
     
 }
 th{
-    border: 2px solid rgb(44, 45, 48);
-    background-color: rgb(233, 50, 50);
+    border: 2px solid rgb(4, 14, 44);
+    background-color: rgb(50, 233, 209);
     width: 300px; 
     text-align: center; 
     padding: 10px;
